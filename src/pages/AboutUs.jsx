@@ -738,7 +738,7 @@ export default function AboutUs() {
               >
                 <span className="text-white font-extrabold">💰 Donate Now</span>
               </Button>
-            </Link>
+            </Link> 
             <Link to={createPageUrl("Contact")} className="w-full sm:w-auto">
               <Button 
                 size="lg" 
